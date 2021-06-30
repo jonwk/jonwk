@@ -1,13 +1,12 @@
-<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h3 align="center"><img src="https://github.com/jonwk/jonwk/blob/main/wave.gif" width="30px">
   <samp> Hello! I am 
-    <b> <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/JohnWesleyK" style="color:cyan;">John W Kommala
-      </a> </b>
+    <b> <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/jonwk">John W Kommala</a> </b>
   </samp>
 </h3>
 
-<p align="center" style="color:cyan;"><br>
+<p align="center"><br>
   <samp>
-    〔 <code>🎓 Computer Science Student</code> @ <a href="https://www.tcd.ie/"><b><code>🏛 Trinity College Dublin</code></b></a> 〕
+    〔 <code>🎓 Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code>🏛 Trinity College Dublin</code></b></a> 〕
     <br>
   </samp>
 </p>
@@ -20,8 +19,6 @@
       <a href="mailto:johnwesleygithub@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
       <a href="https://www.hackerrank.com/johnwesleygithub" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
       <br>
-     
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jonwk&theme=radical&show_icons=true&hide_border=true" />
   <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonwk&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
