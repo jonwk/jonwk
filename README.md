@@ -6,7 +6,7 @@
 
 <p align="center"><br>
   <samp>
-    〔 <code>🎓 Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code>🏛 Trinity College Dublin</code></b></a> 〕
+    <b>〔 </b> <code>🎓 Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code>🏛 Trinity College Dublin</code></b></a> <b> 〕</b>
     <br>
   </samp>
 </p>
