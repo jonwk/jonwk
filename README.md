@@ -34,7 +34,7 @@
 
 <samp>
   <p align="center">
-    ● ▬▬▬▬▬▬ ☆ ▬▬▬▬ ★ ▬▬▬▬ ☆ ▬▬▬▬▬▬ ●<br>
+    ● ▬▬▬▬▬▬ ☆ ▬▬▬ ★ ▬▬▬ ☆ ▬▬▬▬▬▬ ●<br>
     <b>-</b> <a href="https://github.com/jonwk">jonwk</a>
   </p>
 </samp>
