@@ -24,7 +24,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonwk&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   <br>
      <a href="https://github.com/jonwk?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-     <a href="https://github.com/jonwk" target="_blank"><img alt="jonwk" src="https://badges.pufler.dev/visits/jonwk/jonwk?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<!--      <a href="https://github.com/jonwk" target="_blank"><img alt="jonwk" src="https://badges.pufler.dev/visits/jonwk/jonwk?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a> -->
      <a href="https://github.com/jonwk/jonwk" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/jonwk/jonwk?label=profile%20updated&style=flat-square"></a>
   </samp>
   </p>
