@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://github.com/jonwk/jonwk/blob/main/wave.gif" width="30px" height="30px">
+<h3 align="center">
   <samp> Hello! I am 
     <b> <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/jonwk">John W Kommala</a> </b>
   </samp>
