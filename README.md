@@ -8,8 +8,6 @@
   <samp>
     <b>〔 </b> <code>👨🏻‍💻 Software Engineer</code> <b>@</b> <a href="https://www.precisionals.ie/"><b><code>🧬 Precision ALS - ADAPT</code></b></a> <b> 〕</b>
     <br>
-    <b>〔 </b> <code>🎓 Computer Science</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code>🏛 Trinity College Dublin</code></b></a> <b> 〕</b>
-    <br>
   </samp>
 </p>
 
@@ -17,7 +15,12 @@
   <details align="center">
      <summary> <samp> &#9776; Details</samp></summary>
      <p align="center">
-       <br>
+       <p align="center">
+        <samp>
+          <b>〔 </b> <code>🎓 Computer Science</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code>🏛 Trinity College Dublin</code></b></a> <b> 〕</b>
+         <br>
+        </samp>
+      </p>
         <a href="https://www.linkedin.com/in/johnkommala" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href="mailto:johnkommala@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
         <a href="https://www.hackerrank.com/johnwesleygithub" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
