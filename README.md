@@ -6,6 +6,8 @@
 
 <p align="center"><br>
   <samp>
+    <b>〔 </b> <code>👨🏻‍💻 Software Engineer</code> <b>@</b> <a href="https://www.precisionals.ie/"><b><code>🧬 Precision ALS - ADAPT</code></b></a> <b> 〕</b>
+    <br>
     <b>〔 </b> <code>🎓 Computer Science</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code>🏛 Trinity College Dublin</code></b></a> <b> 〕</b>
     <br>
   </samp>
